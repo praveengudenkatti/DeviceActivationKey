@@ -4,10 +4,10 @@
   "description": "Please login to continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://t.me/praveenbmi_46",
+  "renewUrl": "https://t.me/dp_mods",
   "devices": [
     {
-      "device_id": "6bf41b867bb3f7b8",
+      "device_id": "591a2a49ce8ca4dc",
       "username": "dpmods",
       "password": "12345",
       "expire_date": "2025-10-20"
